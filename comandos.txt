@@ -1,0 +1,18 @@
+(Adicionar Filme)
+4 - superman
+56 - harry poter
+
+(Adicionar Usuário)
+1 - lucca
+2 - enzo
+
+(Listar Filmes)
+
+
+(Listar Usuários)
+
+
+(Adicionar Favorito)
+
+
+(Sair)
